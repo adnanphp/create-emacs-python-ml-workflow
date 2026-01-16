@@ -1,0 +1,92 @@
+# Emacs
+*~
+\#*
+.\#*
+*autoloads.el
+*loaddefs.el
+*.elc
+.dir-locals.el
+projectile-bookmarks.eld
+tramp
+.bookmarks
+.emacs.desktop
+.emacs.desktop.lock
+.elpa/
+auto-save-list/
+saves/
+recentf
+url/
+history
+places
+abbrev_defs
+custom.el
+gnus
+smiley
+erc/
+eshell/
+bbdb
+lisp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter/Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Org-mode
+/.org-id-locations
+*_archive
+org-timestamps/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+/tmp/
+/images/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.log
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
